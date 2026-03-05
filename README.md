@@ -17,7 +17,6 @@
 
 - Project Manager: Gurman Singh Gill
 - Developer: Abdurrahman Khan
-- UI/UX Designer: Lakshita Pandey
+- UI/UX Designer: Used for styling and enhancing the visual appearance of the app.
 - DevOps: Aman Singh and Abhishek Singh
-
 
